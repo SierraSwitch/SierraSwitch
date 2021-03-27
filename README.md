@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SierraSwitch
+- 👀  Je suis  intéresser par le web designe
+- 🌱 I’m currently learning l'HTML et le CSS
+- 💞️ I’m looking to collaborate on des sites
+- 📫 Vous pouvez me joindre a mon adresse email: sam.bgtn@gmail.com
